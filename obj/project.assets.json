@@ -1223,11 +1223,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aspire\\Desktop\\btkmvc\\Store\\StoreApp\\StoreApp.csproj",
+      "projectUniqueName": "C:\\Users\\Aspire\\Desktop\\btkstoreapp\\StoreApp\\StoreApp.csproj",
       "projectName": "StoreApp",
-      "projectPath": "C:\\Users\\Aspire\\Desktop\\btkmvc\\Store\\StoreApp\\StoreApp.csproj",
+      "projectPath": "C:\\Users\\Aspire\\Desktop\\btkstoreapp\\StoreApp\\StoreApp.csproj",
       "packagesPath": "C:\\Users\\Aspire\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aspire\\Desktop\\btkmvc\\Store\\StoreApp\\obj\\",
+      "outputPath": "C:\\Users\\Aspire\\Desktop\\btkstoreapp\\StoreApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aspire\\AppData\\Roaming\\NuGet\\NuGet.Config",
