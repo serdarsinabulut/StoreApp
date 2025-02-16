@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SGxEZi5JdycuoZdpG9vR/iViZ2axeXW1xC7GqK0Tpso=",
+  "Hash": "8HauuB8HnQL5KlWambRO3z1yhixNcpsAFUYLiioeoo0=",
   "Source": "StoreApp",
   "BasePath": "_content/StoreApp",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\html\\Error.html"
+    },
+    {
+      "Identity": "C:\\Users\\Aspire\\Desktop\\btkstoreapp\\StoreApp\\wwwroot\\images\\default.png",
+      "SourceId": "StoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aspire\\Desktop\\btkstoreapp\\StoreApp\\wwwroot\\",
+      "BasePath": "_content/StoreApp",
+      "RelativePath": "images/default.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\default.png"
     },
     {
       "Identity": "C:\\Users\\Aspire\\Desktop\\btkstoreapp\\StoreApp\\wwwroot\\js\\site.js",
